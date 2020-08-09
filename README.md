@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-saurabhshalu-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabhshalu/ "saurabhshalu")](https://www.linkedin.com/in/saurabhshalu/) [![Twitter Badge](https://img.shields.io/badge/-saurabh_shalu-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/saurabh_shalu/ "saurabh_shalu")](https://twitter.com/saurabh_shalu/) [![Gmail Badge](https://img.shields.io/badge/-saurabhshalu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saurabhshalu@gmail.com "saurabhshalu@gmail.com")](mailto:saurabhshalu@gmail.com)
+
+
+### 😎 Cool Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=saurabhshalu&count_private=true&show_icons=true&include_all_commits=true)
