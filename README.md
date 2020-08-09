@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 I’m currently learning
+
+![Spring](https://img.shields.io/badge/-Spring-gray?style=flat-square&logo=spring "Spring") ![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react "React")
