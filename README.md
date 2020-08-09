@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 
 ![Spring](https://img.shields.io/badge/-Spring-gray?style=flat-square&logo=spring "Spring") ![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react "React")
+
+
+### 💬 Ask me about
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) !![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript "JavaScript")  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular "Angular") ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java "Java") ![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask "Flask") 
